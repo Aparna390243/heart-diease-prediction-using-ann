@@ -1,1 +1,1 @@
-# heart-diease-prediction-using-ann
+# heart-disease-prediction-using-ann
